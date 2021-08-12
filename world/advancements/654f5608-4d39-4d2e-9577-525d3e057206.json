@@ -1,53 +1,150 @@
 {
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
-      "entered_water": "2021-08-12 01:02:19 +0200"
+      "has_bed": "2021-08-12 09:43:16 +0000"
     },
     "done": true
   },
-  "astralsorcery:root": {
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
-      "astralsorcery_present": "2021-08-12 01:00:25 +0200"
+      "has_bed": "2021-08-12 09:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2021-08-12 09:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-08-12 09:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-08-12 09:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-08-12 09:43:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "entered_water": "2021-08-12 01:02:19 +0200"
+      "entered_water": "2021-08-11 23:02:19 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "entered_water": "2021-08-12 01:02:19 +0200"
+      "entered_water": "2021-08-11 23:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-08-12 09:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-08-12 09:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-08-12 09:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-08-12 09:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-08-12 09:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-08-12 09:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2021-08-11 23:02:19 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2021-08-11 23:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-08-12 09:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-08-12 09:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-08-12 09:43:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
-      "entered_water": "2021-08-12 01:02:19 +0200"
+      "entered_water": "2021-08-11 23:02:19 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "entered_water": "2021-08-12 01:02:19 +0200"
+      "entered_water": "2021-08-11 23:02:19 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "entered_water": "2021-08-12 01:02:19 +0200"
+      "entered_water": "2021-08-11 23:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-08-12 09:43:16 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "forest": "2021-08-12 01:00:30 +0200",
-      "beaches": "2021-08-12 01:02:15 +0200",
-      "forest_hills": "2021-08-12 01:00:58 +0200",
-      "ocean": "2021-08-12 01:02:21 +0200",
-      "river": "2021-08-12 01:00:24 +0200"
+      "forest": "2021-08-11 23:00:30 +0000",
+      "deep_ocean": "2021-08-12 09:39:36 +0000",
+      "beaches": "2021-08-11 23:02:15 +0000",
+      "forest_hills": "2021-08-11 23:00:58 +0000",
+      "ocean": "2021-08-11 23:02:21 +0000",
+      "river": "2021-08-11 23:00:24 +0000"
     },
     "done": false
   }
