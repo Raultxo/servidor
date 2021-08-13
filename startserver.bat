@@ -30,7 +30,7 @@ IF %ERRORLEVEL% EQU 0 (
 
 
 :MAIN
-java -d64 -jar serverstarter-1.2.7.jar
+java -d64 -Xmx10240M -Xms8192M -jar serverstarter-1.2.7.jar
 GOTO EOF
 
 :CHECK
